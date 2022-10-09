@@ -1,3 +1,2 @@
 # blooket-hacks
-incase school cheats are blocked
-also these are bookmarklets so you put javascript: at the begining of the code
+bookmarklets dont work anymore so copy code and inspect and go to console and paste then hit enter
